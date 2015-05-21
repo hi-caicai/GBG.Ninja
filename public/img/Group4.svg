@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="675px" height="674px" viewBox="0 0 675 674" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs>
+        <path id="path-1" d="M337,674 C523.119961,674 674,523.119961 674,337 C674,150.880039 523.119961,0 337,0 C150.880039,0 0,150.880039 0,337 C0,523.119961 150.880039,674 337,674 Z"></path>
+        <path id="path-3" d="M0,30.3352879 C0,13.581571 13.5905916,0 30.3419928,0 L162.658007,0 C179.415427,0 193,13.5865506 193,30.3352879 L193,34.6647121 C193,51.418429 179.613622,62.7399647 163.060423,60.0820967 C163.060423,60.0820967 121.5,52.5 98.5,52.5 C75.5,52.5 29.954424,60.3143458 29.954424,60.3143458 C13.4110524,62.9021612 0,51.4134494 0,34.6647121 L0,30.3352879 Z"></path>
+        <circle id="path-5" cx="15" cy="15" r="15"></circle>
+        <circle id="path-7" cx="15" cy="15" r="15"></circle>
+        <path d="M41,42.7213502 C56.4194805,45.9484193 68,59.621822 68,76 C68,94.7776815 52.7776815,110 34,110 C15.2223185,110 0,94.7776815 0,76 C0,59.621822 11.5805195,45.9484193 27,42.7213502 L27,1.99926044 C27,0.895099388 27.8970601,0 29.0058587,0 L38.9941413,0 C40.1019465,0 41,0.89599229 41,1.99926044 L41,42.7213502 Z" id="path-9"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="GBG.NINJA-+-Group-Copy-3" sketch:type="MSLayerGroup" transform="translate(0.500000, 0.000000)">
+            <g id="Group">
+                <g>
+                    <mask id="mask-2" sketch:name="Mask" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#C7B8D7" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                    <g mask="url(#mask-2)">
+                        <g transform="translate(59.000000, 98.000000)">
+                            <g>
+                                <circle id="Oval-1" fill="#4F5B77" sketch:type="MSShapeGroup" cx="278.5" cy="139.5" r="133.5"></circle>
+                                <g id="Rectangle-1-Copy" transform="translate(182.000000, 75.000000)">
+                                    <mask id="mask-4" sketch:name="Mask" fill="white">
+                                        <use xlink:href="#path-3"></use>
+                                    </mask>
+                                    <use id="Mask" fill="#FFFFFF" sketch:type="MSShapeGroup" xlink:href="#path-3"></use>
+                                </g>
+                                <circle id="Oval-4-Copy" fill="#FA907F" sketch:type="MSShapeGroup" cx="281" cy="219" r="20"></circle>
+                                <circle id="Oval-4" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="280.5" cy="219.5" r="10.5"></circle>
+                                <g id="Path-1-+-Oval-7-+-Oval-6" transform="translate(334.000000, 0.000000)" stroke="#4F5B77" stroke-width="2" sketch:type="MSShapeGroup">
+                                    <path d="M29.4647788,3.06270719 C29.4647788,3.06270719 2.96477879,6.56270719 5.46477879,37.0627072" id="Path-1" transform="translate(17.381587, 20.062707) rotate(-19.000000) translate(-17.381587, -20.062707) "></path>
+                                </g>
+                                <g id="Oval-40" transform="translate(244.000000, 90.000000)">
+                                    <mask id="mask-6" sketch:name="Mask" fill="white">
+                                        <use xlink:href="#path-5"></use>
+                                    </mask>
+                                    <use id="Mask" fill="#4F5B77" sketch:type="MSShapeGroup" xlink:href="#path-5"></use>
+                                    <circle fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-6)" cx="24" cy="7" r="7"></circle>
+                                </g>
+                                <g id="Oval-40-Copy" transform="translate(284.000000, 90.000000)">
+                                    <mask id="mask-8" sketch:name="Mask" fill="white">
+                                        <use xlink:href="#path-7"></use>
+                                    </mask>
+                                    <use id="Mask" fill="#4F5B77" sketch:type="MSShapeGroup" xlink:href="#path-7"></use>
+                                    <circle fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-8)" cx="24" cy="7" r="7"></circle>
+                                </g>
+                                <g transform="translate(142.000000, 252.000000)" sketch:type="MSShapeGroup">
+                                    <rect id="Rectangle-3" fill="#4F5B77" x="57" y="0" width="154" height="380" rx="100"></rect>
+                                    <path d="M132.000004,40.4999993 C105.632933,38.9489932 98.5000037,20.5 97.0000037,18 C95.5000037,15.5 93.5307255,13.5 90.5000037,13.5 C87.1488151,13.5 32.9999998,33.5 9.9999993,87 C-7.87865201,128.587297 0.499998406,219 21.9999981,222.5 C43.4999978,226 34.8251119,189.961714 34.0000005,185.5 C20.5000005,112.5 43.9140582,116.857051 45.5000001,117.5 C64.0000005,125 51.9999997,206.737242 51.9999997,234.5 C51.9999997,282.5 42.9999997,279.5 105,272.5 C130.743972,269.593423 142.793266,269.880782 152,270.5 C164.966125,271.372064 169,273.5 169,273.5 C169,273.5 198.195654,285.36312 211.5,275.5 C219.1248,269.847386 214.53081,256.708765 214,231 C213.254674,194.901588 212.000009,129.5 217.500004,119.5 C223,109.5 246.499989,114 237.499989,170.5 C231.92168,205.519381 228.876644,208.378031 228.500004,213.5 C228.268976,216.641776 228.185384,226.338684 237.499989,229 C253.209235,233.488356 280.500004,162.5 258.000004,96 C235.500004,29.5 182.588067,15.0725667 179.000004,14.5 C169.000004,12.9042457 166.000004,42.5000019 132.000004,40.4999993 Z" id="Path-14" fill="#FFFFFF"></path>
+                                </g>
+                                <g id="Group-Copy-9" transform="translate(241.000000, 301.000000)">
+                                    <g id="Path-91" transform="translate(0.000000, 20.000000)">
+                                        <mask id="mask-10" sketch:name="Mask" fill="white">
+                                            <use xlink:href="#path-9"></use>
+                                        </mask>
+                                        <use id="Mask" stroke="#979797" fill="#C7B8D7" sketch:type="MSShapeGroup" xlink:href="#path-9"></use>
+                                        <path d="M-17.5,82 C-17.5,82 -2.5,51 33.5,72 C69.5,93 103,55 103,55 L81.5,119 L-17.5,124.5 L-17.5,82 Z" fill="#FAE1A8" sketch:type="MSShapeGroup" mask="url(#mask-10)"></path>
+                                    </g>
+                                    <rect id="Rectangle-120" stroke="#979797" fill="#C7B8D7" sketch:type="MSShapeGroup" x="24" y="19" width="20" height="6" rx="15"></rect>
+                                    <rect id="Rectangle-121" stroke="#979797" fill="#D8D8D8" sketch:type="MSShapeGroup" x="26" y="53" width="7" height="2"></rect>
+                                    <rect id="Rectangle-121-Copy" stroke="#979797" fill="#D8D8D8" sketch:type="MSShapeGroup" x="26" y="47" width="7" height="2"></rect>
+                                    <rect id="Rectangle-121-Copy-2" stroke="#979797" fill="#D8D8D8" sketch:type="MSShapeGroup" x="26" y="41" width="7" height="2"></rect>
+                                    <rect id="Rectangle-121-Copy-3" stroke="#979797" fill="#D8D8D8" sketch:type="MSShapeGroup" x="26" y="35" width="7" height="2"></rect>
+                                    <rect id="Rectangle-121-Copy-4" stroke="#979797" fill="#D8D8D8" sketch:type="MSShapeGroup" x="26" y="29" width="7" height="2"></rect>
+                                    <circle id="Oval-73" fill="#FAE1A8" sketch:type="MSShapeGroup" cx="51" cy="79" r="2"></circle>
+                                    <circle id="Oval-73-Copy" fill="#FAE1A8" sketch:type="MSShapeGroup" cx="30" cy="73" r="2"></circle>
+                                    <circle id="Oval-73-Copy-2" fill="#FAE1A8" sketch:type="MSShapeGroup" cx="45" cy="89" r="3"></circle>
+                                    <circle id="Oval-73-Copy-3" fill="#FAE1A8" sketch:type="MSShapeGroup" cx="36" cy="68" r="3"></circle>
+                                    <circle id="Oval-73-Copy-4" fill="#FAE1A8" sketch:type="MSShapeGroup" cx="16" cy="79" r="3"></circle>
+                                    <circle id="Oval-78" fill="#FAE1A8" sketch:type="MSShapeGroup" cx="35" cy="11" r="3"></circle>
+                                    <circle id="Oval-78-Copy" fill="#FAE1A8" sketch:type="MSShapeGroup" cx="28" cy="6" r="2"></circle>
+                                    <circle id="Oval-78-Copy-2" fill="#FAE1A8" sketch:type="MSShapeGroup" cx="39" cy="2" r="2"></circle>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <path d="M-106.082657,618.5 C-106.082657,618.5 108.362123,458.371387 192.917343,576.500004 C260.917343,671.500004 338.468717,689.324269 419.417343,644.000004 C479.504413,610.356414 480.857462,560.499999 531.417343,560.499999 C717.417343,560.499999 407.417343,780.49999 583.417343,823.99999 C759.417343,867.49999 609.417343,821.5 609.417343,821.5 C609.417343,821.5 101.417343,824.000013 86.9173434,824 C72.4173434,823.999987 -195.082657,696 -195.082657,696 L-106.082657,618.5 Z" id="Path-135" fill="#98D2B2" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                    <g mask="url(#mask-2)" sketch:type="MSShapeGroup">
+                        <g transform="translate(-0.255859, 83.444492)">
+                            <polygon id="Triangle-1" stroke="#FFFFFF" stroke-width="4" fill="#C7B8D7" transform="translate(411.578126, 16.595087) rotate(42.000000) translate(-411.578126, -16.595087) " points="412.102624 6.06267492 426.200194 25.9572226 398.005054 25.9572226 "></polygon>
+                            <polygon id="Triangle-2" stroke="none" fill="#EADDF8" points="541.255859 98.5555075 564.755859 130.555508 517.755859 130.555508 "></polygon>
+                            <polygon id="Triangle-2-Copy-4" stroke="none" fill="#EADDF8" points="109.255859 219.555508 132.755859 251.555508 85.7558587 251.555508 "></polygon>
+                            <polygon id="Triangle-2-Copy" stroke="none" fill="#EADDF8" transform="translate(541.255859, 158.555508) scale(1, -1) translate(-541.255859, -158.555508) " points="541.255859 142.555508 564.755859 174.555508 517.755859 174.555508 "></polygon>
+                            <polygon id="Triangle-2-Copy-5" stroke="none" fill="#EADDF8" transform="translate(109.255859, 279.555508) scale(1, -1) translate(-109.255859, -279.555508) " points="109.255859 263.555508 132.755859 295.555508 85.7558587 295.555508 "></polygon>
+                            <polygon id="Triangle-2-Copy-2" stroke="none" fill="#EADDF8" transform="translate(588.255859, 203.555508) scale(1, -1) translate(-588.255859, -203.555508) " points="588.255859 187.555508 611.755859 219.555508 564.755859 219.555508 "></polygon>
+                            <polygon id="Triangle-2-Copy-6" stroke="none" fill="#EADDF8" transform="translate(62.255859, 327.555508) scale(1, -1) translate(-62.255859, -327.555508) " points="62.2558587 311.555508 85.7558587 343.555508 38.7558587 343.555508 "></polygon>
+                            <polygon id="Triangle-2-Copy-3" stroke="none" fill="#EADDF8" transform="translate(518.255859, 235.555508) scale(1, -1) translate(-518.255859, -235.555508) " points="518.255859 219.555508 541.755859 251.555508 494.755859 251.555508 "></polygon>
+                            <polygon id="Triangle-2-Copy-7" stroke="none" fill="#EADDF8" transform="translate(24.255859, 171.555508) scale(1, -1) translate(-24.255859, -171.555508) " points="24.2558587 155.555508 47.7558587 187.555508 0.755858724 187.555508 "></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="675px" height="674px" viewBox="0 0 675 674" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs>
+        <path id="path-1" d="M337,674 C523.119961,674 674,523.119961 674,337 C674,150.880039 523.119961,0 337,0 C150.880039,0 0,150.880039 0,337 C0,523.119961 150.880039,674 337,674 Z"></path>
+        <rect id="path-3" x="49" y="0" width="154" height="380" rx="100"></rect>
+        <path id="path-5" d="M0,30.3352879 C0,13.581571 13.5905916,0 30.3419928,0 L162.658007,0 C179.415427,0 193,13.5865506 193,30.3352879 L193,34.6647121 C193,51.418429 179.613622,62.7399647 163.060423,60.0820967 C163.060423,60.0820967 121.5,52.5 98.5,52.5 C75.5,52.5 29.954424,60.3143458 29.954424,60.3143458 C13.4110524,62.9021612 0,51.4134494 0,34.6647121 L0,30.3352879 Z"></path>
+        <circle id="path-7" cx="15" cy="15" r="15"></circle>
+        <circle id="path-9" cx="15" cy="15" r="15"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="GBG.NINJA-+-Group-Copy-2" sketch:type="MSLayerGroup" transform="translate(0.500000, 0.000000)">
+            <g id="Group">
+                <g>
+                    <mask id="mask-2" sketch:name="Mask" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#76E5CC" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                    <g mask="url(#mask-2)">
+                        <g transform="translate(-14.000000, 67.000000)">
+                            <g id="Group" stroke-width="1" fill="none" sketch:type="MSLayerGroup" transform="translate(218.000000, 0.000000)">
+                                <g transform="translate(5.000000, 283.000000)">
+                                    <g>
+                                        <path d="M69.6907,39 C69.6907,39 -80.3093013,122.499994 61.1906987,217.499994 C202.690699,312.499994 64.690702,208 64.690702,208 C64.690702,208 -48.8093023,133.999999 64.6906999,66.499999 C178.190702,-1.00000095 69.6907,39 69.6907,39 Z" id="Path-17" fill="#4F5B77" sketch:type="MSShapeGroup"></path>
+                                        <path d="M195.258385,39 C195.258385,39 45.2583835,122.499994 186.758383,217.499994 C328.258383,312.499994 190.258387,208 190.258387,208 C190.258387,208 76.7583826,133.999999 190.258385,66.499999 C303.758387,-1.00000095 195.258385,39 195.258385,39 Z" id="Path-17-Copy" fill="#4F5B77" sketch:type="MSShapeGroup" transform="translate(188.283842, 142.312919) scale(-1, 1) translate(-188.283842, -142.312919) "></path>
+                                        <mask id="mask-4" sketch:name="Mask" fill="white">
+                                            <use xlink:href="#path-3"></use>
+                                        </mask>
+                                        <use id="Mask" fill="#4F5B77" sketch:type="MSShapeGroup" xlink:href="#path-3"></use>
+                                        <ellipse id="Oval-129" fill="#45506A" sketch:type="MSShapeGroup" mask="url(#mask-4)" cx="67.5" cy="193.5" rx="36.5" ry="25.5">
+                                            <g transform="translate(67.500000, 193.500000) rotate(-32.000000) translate(-67.500000, -193.500000) "></g>
+                                        </ellipse>
+                                        <ellipse id="Oval-129-Copy" fill="#45506A" sketch:type="MSShapeGroup" mask="url(#mask-4)" cx="184.5" cy="193.5" rx="36.5" ry="25.5">
+                                            <g transform="translate(184.500000, 193.500000) scale(-1, 1) rotate(-32.000000) translate(-184.500000, -193.500000) "></g>
+                                        </ellipse>
+                                        <g mask="url(#mask-4)">
+                                            <g transform="translate(41.000000, 9.000000)">
+                                                <g id="Group" transform="translate(0.000000, 17.000000)">
+                                                    <rect id="Rectangle-14" fill="#80E6FB" sketch:type="MSShapeGroup" x="153" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-13" fill="#FFFFFF" sketch:type="MSShapeGroup" x="136" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-12" fill="#80E6FB" sketch:type="MSShapeGroup" x="119" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-11" fill="#FFFFFF" sketch:type="MSShapeGroup" x="102" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-10" fill="#80E6FB" sketch:type="MSShapeGroup" x="85" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-9" fill="#FFFFFF" sketch:type="MSShapeGroup" x="68" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-8" fill="#80E6FB" sketch:type="MSShapeGroup" x="51" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-7" fill="#FFFFFF" sketch:type="MSShapeGroup" x="34" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-6-Copy" fill="#80E7FC" sketch:type="MSShapeGroup" x="17" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-6" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="17" height="17"></rect>
+                                                </g>
+                                                <g id="Group-Copy-2" transform="translate(0.000000, 51.000000)">
+                                                    <rect id="Rectangle-14" fill="#80E6FB" sketch:type="MSShapeGroup" x="153" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-13" fill="#FFFFFF" sketch:type="MSShapeGroup" x="136" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-12" fill="#80E6FB" sketch:type="MSShapeGroup" x="119" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-11" fill="#FFFFFF" sketch:type="MSShapeGroup" x="102" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-10" fill="#80E6FB" sketch:type="MSShapeGroup" x="85" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-9" fill="#FFFFFF" sketch:type="MSShapeGroup" x="68" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-8" fill="#80E6FB" sketch:type="MSShapeGroup" x="51" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-7" fill="#FFFFFF" sketch:type="MSShapeGroup" x="34" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-6-Copy" fill="#80E7FC" sketch:type="MSShapeGroup" x="17" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-6" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="17" height="17"></rect>
+                                                </g>
+                                                <g id="Group-Copy-4" transform="translate(0.000000, 85.000000)">
+                                                    <rect id="Rectangle-14" fill="#80E6FB" sketch:type="MSShapeGroup" x="153" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-13" fill="#FFFFFF" sketch:type="MSShapeGroup" x="136" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-12" fill="#80E6FB" sketch:type="MSShapeGroup" x="119" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-11" fill="#FFFFFF" sketch:type="MSShapeGroup" x="102" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-10" fill="#80E6FB" sketch:type="MSShapeGroup" x="85" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-9" fill="#FFFFFF" sketch:type="MSShapeGroup" x="68" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-8" fill="#80E6FB" sketch:type="MSShapeGroup" x="51" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-7" fill="#FFFFFF" sketch:type="MSShapeGroup" x="34" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-6-Copy" fill="#80E7FC" sketch:type="MSShapeGroup" x="17" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-6" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="17" height="17"></rect>
+                                                </g>
+                                                <g id="Group-Copy-6" transform="translate(0.000000, 119.000000)">
+                                                    <rect id="Rectangle-14" fill="#80E6FB" sketch:type="MSShapeGroup" x="153" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-13" fill="#FFFFFF" sketch:type="MSShapeGroup" x="136" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-12" fill="#80E6FB" sketch:type="MSShapeGroup" x="119" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-11" fill="#FFFFFF" sketch:type="MSShapeGroup" x="102" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-10" fill="#80E6FB" sketch:type="MSShapeGroup" x="85" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-9" fill="#FFFFFF" sketch:type="MSShapeGroup" x="68" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-8" fill="#80E6FB" sketch:type="MSShapeGroup" x="51" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-7" fill="#FFFFFF" sketch:type="MSShapeGroup" x="34" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-6-Copy" fill="#80E7FC" sketch:type="MSShapeGroup" x="17" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-6" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="17" height="17"></rect>
+                                                </g>
+                                                <g id="Group-Copy-8" transform="translate(0.000000, 153.000000)">
+                                                    <rect id="Rectangle-14" fill="#80E6FB" sketch:type="MSShapeGroup" x="153" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-13" fill="#FFFFFF" sketch:type="MSShapeGroup" x="136" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-12" fill="#80E6FB" sketch:type="MSShapeGroup" x="119" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-11" fill="#FFFFFF" sketch:type="MSShapeGroup" x="102" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-10" fill="#80E6FB" sketch:type="MSShapeGroup" x="85" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-9" fill="#FFFFFF" sketch:type="MSShapeGroup" x="68" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-8" fill="#80E6FB" sketch:type="MSShapeGroup" x="51" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-7" fill="#FFFFFF" sketch:type="MSShapeGroup" x="34" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-6-Copy" fill="#80E7FC" sketch:type="MSShapeGroup" x="17" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-6" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="17" height="17"></rect>
+                                                </g>
+                                                <g id="Group-Copy">
+                                                    <rect id="Rectangle-14" fill="#FFFFFF" sketch:type="MSShapeGroup" x="153" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-13" fill="#80E6FB" sketch:type="MSShapeGroup" x="136" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-12" fill="#FFFFFF" sketch:type="MSShapeGroup" x="119" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-11" fill="#80E6FB" sketch:type="MSShapeGroup" x="102" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-10" fill="#FFFFFF" sketch:type="MSShapeGroup" x="85" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-9" fill="#80E6FB" sketch:type="MSShapeGroup" x="68" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-8" fill="#FFFFFF" sketch:type="MSShapeGroup" x="51" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-7" fill="#80E6FB" sketch:type="MSShapeGroup" x="34" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-6-Copy" fill="#FFFFFF" sketch:type="MSShapeGroup" x="17" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-6" fill="#80E6FB" sketch:type="MSShapeGroup" x="0" y="0" width="17" height="17"></rect>
+                                                </g>
+                                                <g id="Group-Copy-12" transform="translate(0.000000, 136.000000)">
+                                                    <rect id="Rectangle-14" fill="#FFFFFF" sketch:type="MSShapeGroup" x="153" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-13" fill="#80E6FB" sketch:type="MSShapeGroup" x="136" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-12" fill="#FFFFFF" sketch:type="MSShapeGroup" x="119" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-11" fill="#80E6FB" sketch:type="MSShapeGroup" x="102" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-10" fill="#FFFFFF" sketch:type="MSShapeGroup" x="85" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-9" fill="#80E6FB" sketch:type="MSShapeGroup" x="68" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-8" fill="#FFFFFF" sketch:type="MSShapeGroup" x="51" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-7" fill="#80E6FB" sketch:type="MSShapeGroup" x="34" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-6-Copy" fill="#FFFFFF" sketch:type="MSShapeGroup" x="17" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-6" fill="#80E6FB" sketch:type="MSShapeGroup" x="0" y="0" width="17" height="17"></rect>
+                                                </g>
+                                                <g id="Group-Copy-13" transform="translate(0.000000, 170.000000)">
+                                                    <rect id="Rectangle-14" fill="#FFFFFF" sketch:type="MSShapeGroup" x="153" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-13" fill="#80E6FB" sketch:type="MSShapeGroup" x="136" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-12" fill="#FFFFFF" sketch:type="MSShapeGroup" x="119" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-11" fill="#80E6FB" sketch:type="MSShapeGroup" x="102" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-10" fill="#FFFFFF" sketch:type="MSShapeGroup" x="85" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-9" fill="#80E6FB" sketch:type="MSShapeGroup" x="68" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-8" fill="#FFFFFF" sketch:type="MSShapeGroup" x="51" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-7" fill="#80E6FB" sketch:type="MSShapeGroup" x="34" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-6-Copy" fill="#FFFFFF" sketch:type="MSShapeGroup" x="17" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-6" fill="#80E6FB" sketch:type="MSShapeGroup" x="0" y="0" width="17" height="17"></rect>
+                                                </g>
+                                                <g id="Group-Copy-3" transform="translate(0.000000, 34.000000)">
+                                                    <rect id="Rectangle-14" fill="#FFFFFF" sketch:type="MSShapeGroup" x="153" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-13" fill="#80E6FB" sketch:type="MSShapeGroup" x="136" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-12" fill="#FFFFFF" sketch:type="MSShapeGroup" x="119" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-11" fill="#80E6FB" sketch:type="MSShapeGroup" x="102" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-10" fill="#FFFFFF" sketch:type="MSShapeGroup" x="85" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-9" fill="#80E6FB" sketch:type="MSShapeGroup" x="68" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-8" fill="#FFFFFF" sketch:type="MSShapeGroup" x="51" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-7" fill="#80E6FB" sketch:type="MSShapeGroup" x="34" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-6-Copy" fill="#FFFFFF" sketch:type="MSShapeGroup" x="17" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-6" fill="#80E6FB" sketch:type="MSShapeGroup" x="0" y="0" width="17" height="17"></rect>
+                                                </g>
+                                                <g id="Group-Copy-5" transform="translate(0.000000, 68.000000)">
+                                                    <rect id="Rectangle-14" fill="#FFFFFF" sketch:type="MSShapeGroup" x="153" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-13" fill="#80E6FB" sketch:type="MSShapeGroup" x="136" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-12" fill="#FFFFFF" sketch:type="MSShapeGroup" x="119" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-11" fill="#80E6FB" sketch:type="MSShapeGroup" x="102" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-10" fill="#FFFFFF" sketch:type="MSShapeGroup" x="85" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-9" fill="#80E6FB" sketch:type="MSShapeGroup" x="68" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-8" fill="#FFFFFF" sketch:type="MSShapeGroup" x="51" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-7" fill="#80E6FB" sketch:type="MSShapeGroup" x="34" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-6-Copy" fill="#FFFFFF" sketch:type="MSShapeGroup" x="17" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-6" fill="#80E6FB" sketch:type="MSShapeGroup" x="0" y="0" width="17" height="17"></rect>
+                                                </g>
+                                                <g id="Group-Copy-7" transform="translate(0.000000, 102.000000)">
+                                                    <rect id="Rectangle-14" fill="#FFFFFF" sketch:type="MSShapeGroup" x="153" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-13" fill="#80E6FB" sketch:type="MSShapeGroup" x="136" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-12" fill="#FFFFFF" sketch:type="MSShapeGroup" x="119" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-11" fill="#80E6FB" sketch:type="MSShapeGroup" x="102" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-10" fill="#FFFFFF" sketch:type="MSShapeGroup" x="85" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-9" fill="#80E6FB" sketch:type="MSShapeGroup" x="68" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-8" fill="#FFFFFF" sketch:type="MSShapeGroup" x="51" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-7" fill="#80E6FB" sketch:type="MSShapeGroup" x="34" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-6-Copy" fill="#FFFFFF" sketch:type="MSShapeGroup" x="17" y="0" width="17" height="17"></rect>
+                                                    <rect id="Rectangle-6" fill="#80E6FB" sketch:type="MSShapeGroup" x="0" y="0" width="17" height="17"></rect>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <path d="M142,70.9974722 C142,66.5805903 145.19608,64.6288282 149.173118,66.5555148 C149.173118,66.5555148 158.117731,71.5 163,71.5 C166.785239,71.5 176.761859,66.4205333 176.761859,66.4205333 C180.759374,64.5314249 184,66.5874876 184,70.9974722 L184,110.002528 C184,114.41941 180.419104,118 176.001262,118 L149.998738,118 C145.581157,118 142,114.412512 142,110.002528 L142,70.9974722 Z" id="Rectangle-196" fill="#4F5B77" sketch:type="MSShapeGroup"></path>
+                                    <circle id="Oval-149" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="163.5" cy="79.5" r="3.5"></circle>
+                                    <path d="M108,330 L126,241.5 L145.75,330 L108,330 Z" id="Path-16" fill="#76E4CC" sketch:type="MSShapeGroup"></path>
+                                </g>
+                                <g>
+                                    <circle id="Oval-1" fill="#4F5B77" sketch:type="MSShapeGroup" cx="133.5" cy="170.5" r="133.5"></circle>
+                                    <g id="Rectangle-1-Copy" transform="translate(37.000000, 106.000000)">
+                                        <mask id="mask-6" sketch:name="Mask" fill="white">
+                                            <use xlink:href="#path-5"></use>
+                                        </mask>
+                                        <use id="Mask" fill="#FFFFFF" sketch:type="MSShapeGroup" xlink:href="#path-5"></use>
+                                    </g>
+                                    <circle id="Oval-4-Copy" fill="#FA907F" sketch:type="MSShapeGroup" cx="136" cy="250" r="20"></circle>
+                                    <circle id="Oval-4" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="135.5" cy="250.5" r="10.5"></circle>
+                                    <g id="Path-1-+-Oval-7-+-Oval-6" transform="translate(189.000000, 0.000000)">
+                                        <path d="M29.4647788,34.0627072 C29.4647788,34.0627072 2.96477879,37.5627072 5.46477879,68.0627072" id="Path-1" stroke="#4F5B77" stroke-width="2" sketch:type="MSShapeGroup" transform="translate(17.381587, 51.062707) rotate(-19.000000) translate(-17.381587, -51.062707) "></path>
+                                        <g id="Group" transform="translate(30.952929, 26.490396) rotate(-23.000000) translate(-30.952929, -26.490396) translate(16.952929, 3.990396)">
+                                            <rect id="Rectangle-125" fill="#F3CF7F" sketch:type="MSShapeGroup" x="0" y="0" width="28" height="45" rx="2"></rect>
+                                            <rect id="Rectangle-126" fill="#FA907F" sketch:type="MSShapeGroup" x="3" y="4" width="22" height="34" rx="1"></rect>
+                                            <circle id="Oval-119" fill="#F6917F" sketch:type="MSShapeGroup" cx="14" cy="42" r="2"></circle>
+                                            <rect id="Rectangle-127" fill="#F6917F" sketch:type="MSShapeGroup" x="10" y="2" width="7" height="1" rx="2"></rect>
+                                            <text id="T" sketch:type="MSTextLayer" font-family="Arial" font-size="13" font-weight="bold" fill="#FFFFFF">
+                                                <tspan x="10" y="26">T</tspan>
+                                            </text>
+                                        </g>
+                                    </g>
+                                    <g id="Oval-40" transform="translate(99.000000, 121.000000)">
+                                        <mask id="mask-8" sketch:name="Mask" fill="white">
+                                            <use xlink:href="#path-7"></use>
+                                        </mask>
+                                        <use id="Mask" fill="#4F5B77" sketch:type="MSShapeGroup" xlink:href="#path-7"></use>
+                                        <circle fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-8)" cx="24" cy="7" r="7"></circle>
+                                    </g>
+                                    <g id="Oval-40-Copy" transform="translate(139.000000, 121.000000)">
+                                        <mask id="mask-10" sketch:name="Mask" fill="white">
+                                            <use xlink:href="#path-9"></use>
+                                        </mask>
+                                        <use id="Mask" fill="#4F5B77" sketch:type="MSShapeGroup" xlink:href="#path-9"></use>
+                                        <circle fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-10)" cx="24" cy="7" r="7"></circle>
+                                    </g>
+                                </g>
+                            </g>
+                            <rect id="Rectangle-117" fill="#99F1DE" sketch:type="MSShapeGroup" x="522" y="166" width="96" height="16" rx="40"></rect>
+                            <rect id="Rectangle-117-Copy-4" fill="#99F1DE" sketch:type="MSShapeGroup" x="74" y="263" width="96" height="16" rx="40"></rect>
+                            <rect id="Rectangle-117-Copy" fill="#99F1DE" sketch:type="MSShapeGroup" x="540" y="139" width="96" height="16" rx="40"></rect>
+                            <rect id="Rectangle-117-Copy-5" fill="#99F1DE" sketch:type="MSShapeGroup" x="92" y="236" width="96" height="16" rx="40"></rect>
+                            <rect id="Rectangle-117-Copy-2" fill="#99F1DE" sketch:type="MSShapeGroup" x="570" y="193" width="96" height="16" rx="40"></rect>
+                            <rect id="Rectangle-117-Copy-6" fill="#99F1DE" sketch:type="MSShapeGroup" x="122" y="290" width="96" height="16" rx="40"></rect>
+                            <rect id="Rectangle-117-Copy-3" fill="#99F1DE" sketch:type="MSShapeGroup" x="508" y="220" width="96" height="16" rx="40"></rect>
+                            <rect id="Rectangle-117-Copy-7" fill="#99F1DE" sketch:type="MSShapeGroup" x="60" y="317" width="96" height="16" rx="40"></rect>
+                            <path d="M344,776 C416.372484,776 632.956558,686.688722 679.499976,605.5 C705.413168,560.297927 666.000006,501.000001 583.000006,494.5 C500.000006,488 468.803731,596.9172 429.999989,569.500002 C393.140199,543.456323 370.574097,525.706533 316.500004,552.500002 C205.499998,607.500002 117.252136,496.952376 83.0000001,511.5 C33.9774347,532.320945 140,624.936122 140,662 C140,724.960461 231.333911,776 344,776 Z" id="Oval-131" fill="#FDDBAA" sketch:type="MSShapeGroup"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
