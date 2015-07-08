@@ -3,9 +3,9 @@ body {
   width: 100%;
   height: 100%;
   background: black;
-  background-color:#fff;
+  background-color:#03100B;
   font-family: 'PT Sans', sans-serif;
-
+  overflow: hidden;
 }
 p{
   color: #9A9A9A;
@@ -16,7 +16,7 @@ p{
   text-align: center;
 }
 .logo{  
-  padding-top: 200px;
+  padding-top: 240px;
 }
 .logo img{
     margin-right: 20px;
@@ -29,12 +29,17 @@ p{
 }
 .nav{
 }
-.nav a{
-  color: #9A9A9A;
+.anyconnect a{
+  color: #4C4C4C;
   text-decoration: none;
 }
-.nav a:hover{
-  color: #63BE92;
+.anyconnect p{
+  color: #373938;
+  text-decoration: none;
+}
+
+.anyconnect a:hover{
+  color: #60B65F;
 }
 .img-1{
   animation-duration:0.1s;
@@ -56,15 +61,29 @@ p{
   animation-delay:0.4s;
   animation-iteration-count:1;
 }
-@media only screen and (min-width:1024px) {
-  .logo img{  
-    width: 15%;
-  }
-
-} 
-@media only screen and (min-width:200px) and (max-width: 1024px){
-  .logo img{  
-    width: 15%;
-  }
-
-} 
+.btn{
+  padding: 10px 40px;
+  background-color: #60B65F;
+  outline: none;
+  width: 100px;
+  text-align: center;
+  border-radius: 200px;
+  border:none;
+  color: #fff;
+  cursor:pointer;
+  text-decoration: none;
+}
+.btn:hover{
+  background-color: #54A353;
+}
+.download{
+padding-right: 230px;
+padding-top: 20px;
+}
+.anyconnect{
+  width: 100%;
+  position: absolute;
+  bottom: 20px;
+  margin: 0 auto;
+  text-align: center;
+}
