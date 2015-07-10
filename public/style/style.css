@@ -6,6 +6,10 @@ body {
   background-color:#03100B;
   font-family: 'PT Sans', sans-serif;
   overflow: hidden;
+  background-image: url(../img/bg.jpg);
+  background-size:cover;
+  background-position:center;
+  background-repeat: no-repeat;
 }
 p{
   color: #9A9A9A;
@@ -16,7 +20,7 @@ p{
   text-align: center;
 }
 .logo{  
-  padding-top: 140px;
+  padding-top: 230px;
 }
 .logo img{
 }
@@ -33,12 +37,12 @@ p{
   text-decoration: none;
 }
 .anyconnect p{
-  color: #373938;
+  color: #D9D9D9;
   text-decoration: none;
 }
 
 .anyconnect a:hover{
-  color: #60B65F;
+  color: #3780D5;
 }
 .img-1{
   animation-duration:0.1s;
@@ -62,7 +66,7 @@ p{
 }
 .btn{
   padding: 10px 40px;
-  background-color: #60B65F;
+  background-color: #3A92F8;
   outline: none;
   width: 100px;
   text-align: center;
@@ -73,11 +77,10 @@ p{
   text-decoration: none;
 }
 .btn:hover{
-  background-color: #54A353;
+  background-color: #3780D5;
 }
 .download{
-padding-right: 230px;
-padding-top: 30px;
+padding-top: 80px;
 }
 .anyconnect{
   width: 100%;
